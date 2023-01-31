@@ -14,4 +14,4 @@ async function setupWallet()  {
 
 
 console.log('Running...')
-setupWallet()
+await setupWallet()
