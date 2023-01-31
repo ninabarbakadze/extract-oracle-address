@@ -1,13 +1,13 @@
-# Extract oracle address
-This script allows you to generate an oracle address based on your configured Azure key-vault
+# Extract Azure HSM address
+This script allows you to extract an address from your configured Azure key-vault HSM
 
 
 ```bash
 # Get the latest code
-git clone git@github.com:ninocomputer/generate-oracle-address.git
+git clone git@github.com:ninocomputer/extract-oracle-address.git
 
 # Change directory to the the newly cloned repo
-cd generate/oracle/address
+cd extract-oracle-address
 
 # Install dev dependencies with npm
 npm i
